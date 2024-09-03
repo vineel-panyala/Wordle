@@ -1,7 +1,5 @@
 # Wordle Project
 
-This project was completed as a part of my CSCI 1913 coursework done at the University of Minnesota - Twin Cities.
-
 This project is designed to simulate the hit New York Times Game, Wordle, on a python compiler.
 
 # Files
